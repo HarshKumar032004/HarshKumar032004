@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh Kumar
 - 👀 I’m interested in Blockchain Developer 
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
